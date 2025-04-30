@@ -1,3 +1,41 @@
+# Student Data CRUD App
+
+This is a simple web application built to manage student data with full **CRUD functionality** (Create, Read, Update, Delete). The project is styled using **Tailwind CSS** to ensure a responsive and modern UI.
+
+## 🚀 Features
+
+- Create new student entries
+- Read/display student data in a clean table
+- Update existing student information
+- Delete student records
+- Tailwind CSS-based UI with responsive design
+
+## 🌐 Live Demo
+
+Check out the live version of this project here:  
+👉 [View on Netlify](https://68129ec4a6734457ccd2296d--earnest-lebkuchen-4dc96d.netlify.app/)
+
+> Replace the above link with your actual Netlify deployment URL.
+
+## 📸 Screenshot
+
+![App Screenshot](./screenshot.png)
+
+> Make sure your screenshot is saved in the project folder as `screenshot.png`.
+
+## 🛠️ Technologies Used
+
+- React (or plain HTML/JS depending on your stack)
+- Tailwind CSS
+- JavaScript
+- Git & GitHub
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
