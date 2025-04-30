@@ -13,7 +13,7 @@ This is a simple web application built to manage student data with full **CRUD f
 ## 🌐 Live Demo
 
 Check out the live version of this project here:  
-👉 [View on Netlify](https://68129ec4a6734457ccd2296d--earnest-lebkuchen-4dc96d.netlify.app/)
+👉 [View on Netlify](https://studentdata-kaif-2407.netlify.app/)
 
 > Replace the above link with your actual Netlify deployment URL.
 
