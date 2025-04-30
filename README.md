@@ -19,7 +19,7 @@ Check out the live version of this project here:
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](https://github.com/kaif-2407/Student-Data/blob/5b7ae6f28f9832bb15816953ead2239ce07ca4aa/Screenshot%202025-05-01%20033307.png)
 
 > Make sure your screenshot is saved in the project folder as `screenshot.png`.
 
